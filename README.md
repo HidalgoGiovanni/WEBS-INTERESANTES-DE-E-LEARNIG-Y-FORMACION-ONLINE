@@ -1,7 +1,7 @@
 # WEBS-INTERESANTES-DE-E-LEARNIG-Y-FORMACION-ONLINE
 RECOPILA LA INFORMACION DE FUENTES DE ELEARNING 
 
-##WEBS DE ELEARNING 
+## WEBS DE ELEARNING 
 - Udemy: Plataforma de cursos online en una gran variedad de temas. (https://www.udemy.com/)
 
 - Coursera: Ofrece cursos en línea y programas de grado de universidades de todo el mundo. (https://www.coursera.org/)
